@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/gerardo/Documents/Business/Udacity/reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a978650837318cf056bf3383ff02fe7a3b891f20">
+        <dex dex="/home/gerardo/Documents/Business/Udacity/reader/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-66989598df96e7b3cd10e12852be7f491159b431.jar" />
+    </item>
+    <item
+        jar="/home/gerardo/Documents/Business/Udacity/reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/gerardo/Documents/Business/Udacity/reader/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-116c8b84164f9afad0c230d07c521e0ea8b2274b.jar" />
+    </item>
+    <item
+        jar="/home/gerardo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/gerardo/Documents/Business/Udacity/reader/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-63cd3162652191798b976930416db27ca3db439e.jar" />
+    </item>
+    <item
+        jar="/home/gerardo/Documents/Business/Udacity/reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="/home/gerardo/Documents/Business/Udacity/reader/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-27c109188e5bd3868848e58e3e04a16b495b20ed.jar" />
+    </item>
+    <item
+        jar="/home/gerardo/Documents/Business/Udacity/reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="/home/gerardo/Documents/Business/Udacity/reader/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-e1dcd30a4b08cf8aaeae326ec55cfb3d5069e198.jar" />
+    </item>
+    <item
+        jar="/home/gerardo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/home/gerardo/Documents/Business/Udacity/reader/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2-78f413447086b8bdd34873c3d1bbba68c202b29a.jar" />
+    </item>
+    <item
+        jar="/home/gerardo/Documents/Business/Udacity/reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/gerardo/Documents/Business/Udacity/reader/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-f0d959fbefa920174f7f7d193c69db99e9d4a62c.jar" />
+    </item>
+    <item
+        jar="/home/gerardo/Documents/Business/Udacity/reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/gerardo/Documents/Business/Udacity/reader/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-4d117a20089896233235b7756899dbf6ef60357b.jar" />
+    </item>
+    <item
+        jar="/home/gerardo/Documents/Business/Udacity/reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/home/gerardo/Documents/Business/Udacity/reader/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-8f6f3fbf58388fb09f80abe05b3a9215a05d0a95.jar" />
+    </item>
+    <item
+        jar="/home/gerardo/Documents/Business/Udacity/reader/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/home/gerardo/Documents/Business/Udacity/reader/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/volley-03b666adb02113623f8136f43c13a6ed1d697f37.jar" />
+    </item>
+    <item
+        jar="/home/gerardo/Documents/Business/Udacity/reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/gerardo/Documents/Business/Udacity/reader/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-41407d7f8068823a8abade26483f3e5779352f4b.jar" />
+    </item>
+    <item
+        jar="/home/gerardo/Documents/Business/Udacity/reader/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/gerardo/Documents/Business/Udacity/reader/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/classes-369526740567c6ebbacbbd1ec69163a6a0dcb38d.jar" />
+    </item>
+    <item
+        jar="/home/gerardo/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/gerardo/Documents/Business/Udacity/reader/xyzreader/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0-600906570bbc137a721697cf13c30eb784d35456.jar" />
+    </item>
+
+</items>
